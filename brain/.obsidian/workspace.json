@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "64b3f5094073dc05",
+    "type": "split",
+    "children": [
+      {
+        "id": "829ff9dd4d3096b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35a0760b9529c74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "product/Hypotheses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypotheses"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a832a6a56c75eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f5fdbb474482e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d588d1f3317d056",
+    "type": "split",
+    "children": [
+      {
+        "id": "943c13e4362bd43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c67ef4f79d4a02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b9e8365ef80fe2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d5b4f5eb5e2d225",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aeaf71f781cb9f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ef8583981be83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a241f6a826dbe69d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "product/Hypotheses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fa020dade76e78d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "product/Hypotheses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c7b42e9f70d9c249",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be6d4cce93555030",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "484086bf017f4251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "product/Hypotheses.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "35a0760b9529c74a",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "inbox/README.md",
+    "roadmap/Discovery to MVP.md",
+    "integrations/Vey.md",
+    "research/Competitor Watchlist.md",
+    "research/Research Protocol.md",
+    "decisions/DEC-0002 - Validation Strategy.md",
+    "decisions/DEC-0001 - Product Direction.md",
+    "ideas/Idea Log.md",
+    "product/Hypotheses.md",
+    "product/Principles.md",
+    "product/Vision.md",
+    "AGENTS.md",
+    "00 Home.md",
+    "inbox",
+    "roadmap",
+    "integrations",
+    "ideas",
+    "research",
+    "decisions",
+    "product"
+  ]
+}
